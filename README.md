@@ -1,4 +1,3 @@
-@@ -1,12 +0,0 @@
 - 👋 Hi, I’m @vaibhavdavande	
 - 👀 I’m enthusiast for Data Science	
 - 🌱 I am passionate to work on Python, Data Science, ML-DL and AI	
